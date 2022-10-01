@@ -4,10 +4,7 @@ This is my first program written in Kotlin. It is very simple, and uses basic co
 
 A simple Banking program that gets a users name and age, as well as an account balance. The account balance can then be added to or subtracted.
 
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_g5GmauSeZY)
 
 # Development Environment
 
@@ -19,6 +16,8 @@ A simple Banking program that gets a users name and age, as well as an account b
 # Useful Websites
 
 * [Kotlin](https://kotlinlang.org/)
+* [IntelliJ Download](https://www.jetbrains.com/idea/download/#section=windows)
+* [GitHub](https://github.com/)
 
 # Future Work
 
